@@ -1,2 +1,3 @@
-Aku mau menyelesaikan tugas ini Kerjakan soal berikut menggunakan bahasa Java dengan acuan kode yang sudah disediakan di Visual Studio Code.
+Aku mau menyelesaikan tugas ini Kerjakan soal berikut menggunakan bahasa Java dengan acuan kode yang sudah disediakan di Visual Studio Code. Ketentuan pengerjaan: 1. Program hanya menggunakan 1 folder saja 2. Gunakan 1 file Java utama dengan struktur class Main 3. Tidak mengubah nama class dan method main 4. Input menggunakan Scanner 5. Logika program ditulis di dalam method main 6. Code harus rapi, mudah dibaca, dan sesuai standar dasar Java 7. Berikan komentar singkat pada bagian penting agar mudah dipahami berikut adalah kode awal yang wajib digunakan: import java.util.*; public class Main { public static void main(String[] args) { Scanner sc = new Scanner(System.in); // TODO: implement solution } }
 beritahu aku cara compile nya
+kode nya masih salah, perbaiki 
