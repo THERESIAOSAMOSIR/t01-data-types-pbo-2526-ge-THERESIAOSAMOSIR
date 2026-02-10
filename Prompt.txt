@@ -1,0 +1,2 @@
+Aku mau menyelesaikan tugas ini Kerjakan soal berikut menggunakan bahasa Java dengan acuan kode yang sudah disediakan di Visual Studio Code.
+beritahu aku cara compile nya
